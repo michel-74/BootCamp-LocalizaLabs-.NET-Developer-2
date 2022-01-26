@@ -14,7 +14,7 @@ Curso de Inicialização na linguagem .NET, assim como tópicos iniciais sobre T
 ##### Atividade 02: Mentoria #1: Aula Inaugural - BootCamp LocalizaLabs .NET Developer #2 || ![progress](https://progress-bar.dev/100/ "progresso")
 ##### Atividade 03: Lógica de Programação Essencial || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/02%20Certificado%20de%20Logica%20de%20Programacao%20Essencial.pdf)
 ##### Atividade 04: Aprenda o que são Estrutura de Dados e Algoritmos || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/03%20Certificado%20de%20Estrutura%20de%20Dados%20e%20Algoritmo.pdf)
-##### Atividade 05: Pensamento Computacional || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado]()
+##### Atividade 05: Pensamento Computacional || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/04%20Certificado%20de%20Pensamento%20Computacional.pdf)
 ##### Atividade 06: Primeiros Passos Para Começar a Programar || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado]()
 ##### Atividade 07: Projetos ágeis com SCRUM || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado]()
 ##### Atividade 08: Introdução ao Git e ao GitHub || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado]()
