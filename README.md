@@ -30,3 +30,13 @@ Curso de Inicialização na linguagem .NET, assim como tópicos iniciais sobre T
 ##### Atividade 18: Introdução a Design Patterns com .NET || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
 ##### Atividade 19: Introdução a APIs e métodos HTTP || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
 ##### Atividade 20: Configuração e Deploy na nuvem Microsoft Azure Cloud || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
+##### Atividade 21: Continous Integration (CI) e Continous Delivery (CD) na prática com .NET || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
+##### Atividade 22: Mentoria #2: Como resolver o desafio de código || ![progress](https://progress-bar.dev/100/ "progresso")
+##### Atividade 23: Mentoria #3: Tire suas dúvidas sobre a programação orientada a objetos com exemplos práticos || ![progress](https://progress-bar.dev/100/ "progresso")
+##### Atividade 24: Desafios C# || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
+##### Atividade 25: Criando um APP simples da cadastro de séries em .NET || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
+##### Atividade 26: SQL SERVER - Criando suas primeiras consultas || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
+##### Atividade 27: Modelando um banco de dados na prática com SQL SERVER || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
+##### Atividade 28: SQL SERVER - Boas práticas em bancos relacionais || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
+##### Atividade 29: Introdução a Engenharia de Dados na Azure || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
+##### Atividade 30: Mentoria #5: SQL Server e SQL na prática || ![progress](https://progress-bar.dev/0/ "progresso")
