@@ -1,3 +1,40 @@
+Instruções apresentadas no C#:
+
+1. if;					6. break
+2. switch;					7. continue;
+3. do;'					8. return;
+4. for;					9. try..catch..finally;
+5. foreach;					10. using.
+
+
+Estruturas Complexas:
+
+1. Arrays;
+2. Classes e objetos;
+	2.1. Membros;
+	2.2. Acessibilidade;
+	2.3. Herança;
+	2.4. Métodos;
+3. Structs;
+4. Interfaces;
+5. Enums.
+
+Observação: 
+Ver documentação técnica no site específico de C# e .NET.
+
+Links:
+
 Caminho github para clonar exemplo de programa de pilha:
 https://github.com/gabrielfbarros/csharp-examples
+
+.NET Foundation:
+https://dotnetfoundation.org
+
+Documentação do .NET:
+https://docs.microsoft.com/pt-br/dotnet/
+
+Download .NET:
+https://docs.microsoft.com/download
+
+
 
