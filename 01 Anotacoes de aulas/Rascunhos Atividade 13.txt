@@ -1,0 +1,15 @@
+Aula de Criando o ambiente de Desenvolvimento
+
+Comandos do dotnet core:
+1. dotnet --version;
+2. dotnet --help;
+3. dotnet --info;
+4. dotnet new;
+5. dotnet new --list;
+6. dotnet new --list --tag web;
+7. dotnet new console -o myApp;
+8. cd myApp;
+9. dotnet run;
+10. dotnet build;
+11. dotnet restore.
+
