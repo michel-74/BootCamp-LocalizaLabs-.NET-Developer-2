@@ -39,4 +39,4 @@ Curso de Inicialização na linguagem .NET, assim como tópicos iniciais sobre T
 ##### Atividade 27: Modelando um banco de dados na prática com SQL SERVER || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
 ##### Atividade 28: SQL SERVER - Boas práticas em bancos relacionais || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
 ##### Atividade 29: Introdução a Engenharia de Dados na Azure || ![progress](https://progress-bar.dev/0/ "progresso") || [Clique para acessar o Certificado]
-##### Atividade 30: Mentoria #5: SQL Server e SQL na prática || ![progress](https://progress-bar.dev/0/ "progresso")
+##### Atividade 30: Mentoria #5: SQL Server e SQL na prática || ![progress](https://progress-bar.dev/100/ "progresso")
