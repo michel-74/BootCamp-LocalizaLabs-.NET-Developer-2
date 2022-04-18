@@ -43,6 +43,6 @@ Curso de Inicialização na linguagem .NET, assim como tópicos iniciais sobre T
 
 
 # <p align="center">Curso Concluído com sucesso.</p>
-Curso de Inicialização na linguagem .NET, finalizado em 21/03/2022.
+Curso de Inicialização na linguagem .NET, finalizado em 21/02/2022.
 
-##### Certificado de Conclusão do curso BootCamp LocalizaLabs .NET Developer 2 || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/30%20Certificado%20de%20Conclusao%20do%20BootCamp%20LocalizaLabs%20.Net%20Developer%202.pdf)
+##### Certificado de Conclusão do curso BootCamp LocalizaLabs .NET Developer 2 || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/30%20Certificado%20de%20Conclusao%20do%20BootCamp%20LocalizaLabs%20.NET%20Developer%202.pdf)
