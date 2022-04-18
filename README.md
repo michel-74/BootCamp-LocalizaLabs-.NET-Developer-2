@@ -34,9 +34,15 @@ Curso de Inicialização na linguagem .NET, assim como tópicos iniciais sobre T
 ##### Atividade 22: Mentoria #2: Como resolver o desafio de código || ![progress](https://progress-bar.dev/100/ "progresso")
 ##### Atividade 23: Mentoria #3: Tire suas dúvidas sobre a programação orientada a objetos com exemplos práticos || ![progress](https://progress-bar.dev/100/ "progresso")
 ##### Atividade 24: Desafios C# || ![progress](https://progress-bar.dev/100/ "progresso")
-##### Atividade 25: Criando um APP simples da cadastro de séries em .NET || ![progress](https://progress-bar.dev/50/ "progresso") || [Clique para acessar o Certificado]
+##### Atividade 25: Criando um APP simples da cadastro de séries em .NET || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/25%20Certificado%20Criando%20um%20APP%20Simples%20de%20Cadastro%20de%20Series%20em%20.NET.pdf)
 ##### Atividade 26: SQL SERVER - Criando suas primeiras consultas || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/26%20Certificado%20SQL%20Server%20-%20Criando%20suas%20primeiras%20consultas.pdf)
 ##### Atividade 27: Modelando um banco de dados na prática com SQL SERVER || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/27%20Certificado%20Modelando%20um%20banco%20de%20dados%20na%20pratica%20com%20SQL%20Server.pdf)
 ##### Atividade 28: SQL SERVER - Boas práticas em bancos relacionais || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/28%20Certificado%20SQL%20Server%20-%20Boas%20praticas%20em%20bancos%20relacionais.pdf)
 ##### Atividade 29: Introdução a Engenharia de Dados na Azure || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/29%20Certificado%20Introducao%20a%20Engenharia%20de%20Dados%20na%20Azure.pdf)
 ##### Atividade 30: Mentoria #5: SQL Server e SQL na prática || ![progress](https://progress-bar.dev/100/ "progresso")
+
+
+# <p align="center">Curso Concluído com sucesso.</p>
+Curso de Inicialização na linguagem .NET, finalizado em 21/03/2022.
+
+##### Certificado de Conclusão do curso BootCamp LocalizaLabs .NET Developer 2 || ![progress](https://progress-bar.dev/100/ "progresso") || [Clique para acessar o Certificado](https://github.com/michel-74/BootCamp-LocalizaLabs-.NET-Developer-2/blob/main/05%20Certificacoes/30%20Certificado%20de%20Conclusao%20do%20BootCamp%20LocalizaLabs%20.Net%20Developer%202.pdf)
